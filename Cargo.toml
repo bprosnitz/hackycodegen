@@ -1,0 +1,14 @@
+[package]
+name = "prototypegen"
+version = "0.1.0"
+authors = ["Benjamin Prosnitz <bprosnitz@google.com>"]
+edition = "2018"
+
+[dependencies]
+protobuf = "2.0"
+tera = "0.11"
+serde = { version = "1.0", features = ["derive"] }
+
+[build-dependencies]
+protoc-rust = "2.0"
+

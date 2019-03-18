@@ -1,0 +1,10 @@
+
+û
+hello_world.protooak.examples.hello_world"%
+SayHelloRequest
+name (	Rname",
+SayHelloResponse
+message (	Rmessage2o
+
+HelloWorlda
+SayHello).oak.examples.hello_world.SayHelloRequest*.oak.examples.hello_world.SayHelloResponsebproto3
